@@ -147,7 +147,7 @@ cargo install --version='~0.7' sqlx-cli --no-default-features --features rustls,
 
 ### 3. Start Database Services
 
-**Option A: Using init script (recommended)**
+**Option A: Using init script (Recommended)**
 ```bash
 ./scripts/init_db.sh
 ```
